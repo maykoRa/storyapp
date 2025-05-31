@@ -1,0 +1,3 @@
+APP_URL= //api.maptiler.com/
+MAP_SERVICE_API_KEY= 24nYen34zjhxNXiUC38U
+URL_DEPLOYMENT= https://maykora.github.io/storyapp/
